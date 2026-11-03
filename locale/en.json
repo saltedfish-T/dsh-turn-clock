@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Turn timeline",
+    "description": "Adds a right Sidebar tab listing every turn of the session with its date and start time."
+  }
+}
