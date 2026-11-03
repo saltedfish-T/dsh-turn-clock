@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "type": "module",
   "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltedfish-T/dsh-turn-clock.git"
+  },
   "description": "Right-sidebar tab that lists every turn of a session with its date and start time, and jumps the conversation to the turn you pick.",
   "keywords": [
     "dsh",
