@@ -112,6 +112,8 @@ node test/fold.test.mjs      # drives the projection fold with synthetic events
 
 `test/fold.test.mjs` covers the time/seq anchoring, whitespace normalization, injected-context exclusion, same-turn second messages, stale turn boundaries, and the preview budget.
 
+**Working on this repository as an agent?** Read [AGENTS.md](AGENTS.md) first: it carries the install and verification checklist, what each failure string in the panel means, and how to re-check the two internal contracts against a newer DSH release.
+
 ## Uninstall
 
 ```sh
